@@ -1,0 +1,171 @@
+#EXTM3U url-tvg="https://helmerluzo.github.io/varios/rakuten/rakuten.xml.gz"
+#EXTINF:-1 tvg-id="top-free-es-rakuten-tv" tvg-name="top-free-es-rakuten-tv" tvg-logo="https://images-3.wuaki.tv/system/artworks/150/original/peliculas-top-rakuten-tv-1621956596.png" group-title="Películas" tvg-chno="0", Películas Top
+https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/ebdb0d0b-e429-4422-96ed-2aeb2e48c4d3/2.m3u8
+#EXTINF:-1 tvg-id="action-es-rakuten-tv" tvg-name="action-es-rakuten-tv" tvg-logo="https://images-3.wuaki.tv/system/artworks/107/original/peliculas-de-accion-rakuten-tv-1621956288.png" group-title="Películas" tvg-chno="1", Acción
+https://7316af19af3348fbafec08db40c987fb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenActionMovies/3aaff554-6dc2-4e42-8880-b482ce5fc10f/2.m3u8
+#EXTINF:-1 tvg-id="comedy-es-rakuten-tv" tvg-name="comedy-es-rakuten-tv" tvg-logo="https://images-2.wuaki.tv/system/artworks/106/original/peliculas-de-comedia-rakuten-tv-1621956333.png" group-title="Películas" tvg-chno="2", Comedia
+https://69e10208b9a0477c91a7d3c5bc302b85.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenComedyMovies/5a541ed9-8198-4786-b699-0579e76c3869/2.m3u8
+#EXTINF:-1 tvg-id="drama-es-rakuten-tv" tvg-name="drama-es-rakuten-tv" tvg-logo="https://images-0.wuaki.tv/system/artworks/109/original/peliculas-de-drama-rakuten-tv-1621956345.jpeg" group-title="Películas" tvg-chno="3", Drama
+https://43acc28426e84e7b8a691e3503112bd8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenTVShows/992dbd5e-ba97-481e-ab4c-afcf5a3461c5/2.m3u8
+#EXTINF:-1 tvg-id="rakuten-stories-es" tvg-name="rakuten-stories-es" tvg-logo="https://images-2.wuaki.tv/system/artworks/108/original/rakuten-stories-1626245210.jpeg" group-title="Películas" tvg-chno="4", Rakuten Stories
+https://d555824e3a594aefaefc94552a43d278.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenSpotlight/f3f96788-0367-4acd-8b57-2749817184f8/2.m3u8
+#EXTINF:-1 tvg-id="cine-espanol-rakuten-tv" tvg-name="cine-espanol-rakuten-tv" tvg-logo="https://images-3.wuaki.tv/system/artworks/164/original/cine-espanol-rakuten-tv-1628175641.jpeg" group-title="Películas" tvg-chno="5", Cine Español
+https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/c0131fb8-47fa-4cc7-85b7-198544b6b8fe/2.m3u8
+#EXTINF:-1 tvg-id="thriller-es-rakuten-tv" tvg-name="thriller-es-rakuten-tv" tvg-logo="https://images-1.wuaki.tv/system/artworks/266/original/thriller-rakuten-tv-1635839766.jpeg" group-title="Películas" tvg-chno="8", Thrillers
+https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/67239973-7d86-4f42-a800-943c968cf99e/2.m3u8
+#EXTINF:-1 tvg-id="romance-es-rakuten-tv" tvg-name="romance-es-rakuten-tv" tvg-logo="https://images-1.wuaki.tv/system/artworks/258/original/peliculas-romanticas-rakuten-tv-1641196121.jpeg" group-title="Películas" tvg-chno="9", Películas Románticas
+https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/a3c681e3-f19f-4ce8-9587-7ef21fc462ad/2.m3u8
+#EXTINF:-1 tvg-id="mytime-movie-network-spanish" tvg-name="mytime-movie-network-spanish" tvg-logo="https://images-1.wuaki.tv/system/artworks/126/original/mytime-movie-network-1608562045.jpeg" group-title="Películas" tvg-chno="40", MyTime Movie Network
+https://appletree-mytimespain-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mytime-spain-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
+#EXTINF:-1 tvg-id="filmstream-spi" tvg-name="filmstream-spi" tvg-logo="https://images-3.wuaki.tv/system/artworks/70/original/filmstream-1648199522.jpeg" group-title="Películas" tvg-chno="48", Filmstream
+https://a4c5024989df44268e50935f65fb0d88.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Filmstream/b3125f50-15d4-4095-a19d-0410f04ff7f0/2.m3u8
+#EXTINF:-1 tvg-id="crimen-tv" tvg-name="crimen-tv" tvg-logo="https://images-1.wuaki.tv/system/artworks/326/original/crimen-tv-1630568511.jpeg" group-title="Películas" tvg-chno="50", Crimen TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/3dc72002-1602-44fd-bd15-3bf9cb875aec/5.m3u8
+#EXTINF:-1 tvg-id="shorts-tv-es" tvg-name="shorts-tv-es" tvg-logo="https://images-0.wuaki.tv/system/artworks/309/original/cortos-1644909676.jpeg" group-title="Películas" tvg-chno="56", Cortos
+https://amg00784-shortsinternati-shortstvfastes-rakuten-pdzlz.amagi.tv/hls/amagi_hls_data_rakutenAA-shortstvfastspain-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
+#EXTINF:-1 tvg-id="dark-matter-es" tvg-name="dark-matter-es" tvg-logo="https://images-1.wuaki.tv/system/artworks/306/original/dark-matter-1627631485.jpeg" group-title="Películas" tvg-chno="65", Dark Matter
+https://darkmatter-spanish-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tricoast-dark-matter-spanish-rakuten/CDN/1280x720_2525600/chunklist.m3u8
+#EXTINF:-1 tvg-id="filmrise-sci-fi-es" tvg-name="filmrise-sci-fi-es" tvg-logo="https://images-3.wuaki.tv/system/artworks/323/original/filmrise-sci-fi-1631546650.jpeg" group-title="Series" tvg-chno="103", FilmRise Sci-Fi
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/f253fa29-7567-470f-972d-b586edaeb715/5.m3u8
+#EXTINF:-1 tvg-id="pongalo-novelaclub" tvg-name="pongalo-novelaclub" tvg-logo="https://images-0.wuaki.tv/system/artworks/246/original/pongalo-novelaclub-1622457227.jpeg" group-title="Series" tvg-chno="106", Pongalo NovelaClub
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9f89bec4-7616-42a7-993f-a452fb496d5d/5.m3u8
+#EXTINF:-1 tvg-id="rakuten-viki-new" tvg-name="rakuten-viki-new" tvg-logo="https://images-0.wuaki.tv/system/artworks/361/original/rakuten-viki-1645608594.jpeg" group-title="Series" tvg-chno="112", Rakuten VIKI - Easter Egg-Hunt Special
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/f2370e6a-5267-4784-b161-6d1077cde998/2.m3u8
+#EXTINF:-1 tvg-id="bbc-doctor-who-es" tvg-name="bbc-doctor-who-es" tvg-logo="https://images-0.wuaki.tv/system/artworks/363/original/doctor-who-1639673890.jpeg" group-title="Series" tvg-chno="114", Doctor Who
+https://32ee47381d2c4f0f94add7af019d9483.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_DoctorWho/18f57419-59b4-4e3e-ad7a-459a58877c26/3.m3u8
+#EXTINF:-1 tvg-id="bbc-drama-es" tvg-name="bbc-drama-es" tvg-logo="https://images-0.wuaki.tv/system/artworks/366/original/bbc-drama-1639673931.jpeg" group-title="Series" tvg-chno="115", BBC Drama
+https://fc1340aa56954f15a730a7c9ebee2771.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_BBCDrama/30d27b48-e854-493c-8ad0-d1e55748ba47/3.m3u8
+#EXTINF:-1 tvg-id="filmrise-archivos-forenses" tvg-name="filmrise-archivos-forenses" tvg-logo="https://images-1.wuaki.tv/system/artworks/379/original/archivos-forenses-1642607532.jpeg" group-title="Series" tvg-chno="117", Archivos Forenses
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/429ce4ca-6a3d-482b-af61-53a5f2859ca2/3.m3u8
+#EXTINF:-1 tvg-id="the-pet-collective" tvg-name="the-pet-collective" tvg-logo="https://images-1.wuaki.tv/system/artworks/12/original/the-pet-collective-1600247432.jpeg" group-title="Entretenimiento" tvg-chno="160", Pet Obsessed
+https://6d185bb7400e446f89481c43da8a579c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ThePetCollective/1a5132af-2564-484e-a88e-85e7476f651c/2.m3u8
+#EXTINF:-1 tvg-id="fail-army" tvg-name="fail-army" tvg-logo="https://images-1.wuaki.tv/system/artworks/13/original/fail-army-1625041973.jpeg" group-title="Entretenimiento" tvg-chno="161", Fail Army
+https://4b1a614d2fbc47b5843ee545489fc197.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FailArmy/ac7c7b67-db7a-4629-b266-fecac195d512/2.m3u8
+#EXTINF:-1 tvg-id="people-are-awesome" tvg-name="people-are-awesome" tvg-logo="https://images-0.wuaki.tv/system/artworks/18/original/people-are-awesome-1649230860.jpeg" group-title="Entretenimiento" tvg-chno="162", People Are Awesome
+https://3f01356fd70c4daba7be812b88108d0e.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_PeopleAreAwesome/a81b783e-d530-4208-b6ee-748392c74d28/2.m3u8
+#EXTINF:-1 tvg-id="peopletv" tvg-name="peopletv" tvg-logo="https://images-0.wuaki.tv/system/artworks/73/original/peopletv-1606130842.jpeg" group-title="Entretenimiento" tvg-chno="163", People TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/c04170f5-1315-415f-9a1b-1942a856c9ca/2.m3u8
+#EXTINF:-1 tvg-id="insight-tv-spanish" tvg-name="insight-tv-spanish" tvg-logo="https://images-2.wuaki.tv/system/artworks/84/original/insight-tv-1648452013.jpeg" group-title="Entretenimiento" tvg-chno="164", Insight TV
+https://insighttv-spa-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-insighttv-spa-rakuten/CDN/1280x720_3440800/chunklist.m3u8
+#EXTINF:-1 tvg-id="afv-family" tvg-name="afv-family" tvg-logo="https://images-3.wuaki.tv/system/artworks/221/original/afv-family-1622017638.png" group-title="Entretenimiento" tvg-chno="165", AFV Family
+https://ec4a5bcc9d664b48985de6095931aaa7.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_AmericasFunniestHomeVideos/e984488c-3425-4e80-a95d-17d664d9c290/2.m3u8
+#EXTINF:-1 tvg-id="just-for-laughs-gags-sp" tvg-name="just-for-laughs-gags-sp" tvg-logo="https://images-1.wuaki.tv/system/artworks/250/original/just-for-laughs-gags-1622458729.jpeg" group-title="Entretenimiento" tvg-chno="167", Just For Laughs Gags - Las mejores bromas
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/b4bf0a83-edd9-412e-b53b-6e6a45dfc8d2/5.m3u8
+#EXTINF:-1 tvg-id="revry" tvg-name="revry" tvg-logo="https://images-1.wuaki.tv/system/artworks/57/original/revry-1602758456.jpeg" group-title="Entretenimiento" tvg-chno="170", Revry
+https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/a02adc44-0ae4-4930-b5a6-10f95b0b0519/0.m3u8
+#EXTINF:-1 tvg-id="wired" tvg-name="wired" tvg-logo="https://images-3.wuaki.tv/system/artworks/205/original/wired-1620393517.jpeg" group-title="Entretenimiento" tvg-chno="172", Wired
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/bc9c7584-4f5e-4871-805c-50cce729aeed/5.m3u8
+#EXTINF:-1 tvg-id="mavtv-motorsports-network" tvg-name="mavtv-motorsports-network" tvg-logo="https://images-2.wuaki.tv/system/artworks/17/original/mavtv-motorsports-network-1602757453.jpeg" group-title="Deportes" tvg-chno="241", MAVTV Motorsports Network
+https://1ed7111548254b7080611444388d3b50.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_MAVTVMotorSportsNetwork/d4b8738f-a47a-41c9-a9b1-d67d782a6946/2.m3u8
+#EXTINF:-1 tvg-id="world-poker-tour" tvg-name="world-poker-tour" tvg-logo="https://images-3.wuaki.tv/system/artworks/45/original/world-poker-tour-1602085041.jpeg" group-title="Deportes" tvg-chno="242", World Poker Tour
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/dd95536f-25c4-448c-af20-c0e9ce114fcb/5.m3u8
+#EXTINF:-1 tvg-id="fuel-tv" tvg-name="fuel-tv" tvg-logo="https://images-3.wuaki.tv/system/artworks/33/original/fuel-tv-1638861647.jpeg" group-title="Deportes" tvg-chno="243", FUEL TV
+https://b4208a07e52a4a4a8fc67d390ca70848.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FuelTV/6080ee26-7a28-445b-9d67-71a44c64aba4/1.m3u8
+#EXTINF:-1 tvg-id="motorvision-tv" tvg-name="motorvision-tv" tvg-logo="https://images-3.wuaki.tv/system/artworks/44/original/motorvision-tv-1602083404.jpeg" group-title="Deportes" tvg-chno="244", MOTORVISION.TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/76cd55d5-ea6e-4295-aaea-a340c13f7013/5.m3u8
+#EXTINF:-1 tvg-id="billiards-tv" tvg-name="billiards-tv" tvg-logo="https://images-2.wuaki.tv/system/artworks/330/original/world-billiards-tv-1645084754.png" group-title="Deportes" tvg-chno="245", World Billiards TV
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/d72e94e8-d517-453b-8b92-a411265a743a/2.m3u8
+#EXTINF:-1 tvg-id="estv" tvg-name="estv" tvg-logo="https://images-1.wuaki.tv/system/artworks/99/original/estv-1607942968.jpeg" group-title="Deportes" tvg-chno="247", ESTV
+https://estv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-estv-rakuten/CDN/1920x1080_5420800/chunklist.m3u8
+#EXTINF:-1 tvg-id="hard-knocks-fighting-championship" tvg-name="hard-knocks-fighting-championship" tvg-logo="https://images-0.wuaki.tv/system/artworks/39/original/hard-knocks-fighting-1602077398.jpeg" group-title="Deportes" tvg-chno="249", Hard Knocks Fighting Championship
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/e4d055b0-636a-412b-a214-93ffb536f820/5.m3u8
+#EXTINF:-1 tvg-id="mma-tv" tvg-name="mma-tv" tvg-logo="https://images-3.wuaki.tv/system/artworks/301/original/mma-tv-1626341863.jpeg" group-title="Deportes" tvg-chno="253", MMA TV
+https://alchimie-mmatv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-alchimie-mmatv-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
+#EXTINF:-1 tvg-id="powernation" tvg-name="powernation" tvg-logo="https://images-1.wuaki.tv/system/artworks/46/original/powernation-1619071848.jpeg" group-title="Deportes" tvg-chno="257", Powernation
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/a5ba1778-a275-4bb7-8bae-2ad2adcbeb56/5.m3u8
+#EXTINF:-1 tvg-id="usga" tvg-name="usga" tvg-logo="https://images-3.wuaki.tv/system/artworks/247/original/usga-1622457489.jpeg" group-title="Deportes" tvg-chno="258", USGA
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/4de7f47a-30ca-439f-978c-a749c6416e03/5.m3u8
+#EXTINF:-1 tvg-id="surf-channel" tvg-name="surf-channel" tvg-logo="https://images-3.wuaki.tv/system/artworks/338/original/surf-channel-1631785285.jpeg" group-title="Deportes" tvg-chno="265", Surf Channel
+https://fdd0a769b16845d981dce6fd9c9f6195.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_SurfChannel/8ede8b87-01b5-4772-83db-3403f243f423/1.m3u8
+#EXTINF:-1 tvg-id="mi-casa" tvg-name="mi-casa" tvg-logo="https://images-3.wuaki.tv/system/artworks/324/original/mi-casa-1630568194.jpeg" group-title="Estilo de vida" tvg-chno="310", Mi Casa
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/b2c16eee-c2bf-4c19-9ecd-ce3cbbd12271/5.m3u8
+#EXTINF:-1 tvg-id="fashion-tv" tvg-name="fashion-tv" tvg-logo="https://images-1.wuaki.tv/system/artworks/50/original/fashion-tv-1602688597.jpeg" group-title="Estilo de vida" tvg-chno="311", Fashion TV
+https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/58ec67f5-3cf2-4f21-b0b5-257bbbd19beb/1.m3u8
+#EXTINF:-1 tvg-id="glamour" tvg-name="glamour" tvg-logo="https://images-3.wuaki.tv/system/artworks/201/original/glamour-1645609290.jpeg" group-title="Estilo de vida" tvg-chno="313", Glamour
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/40456f25-84bc-41ea-b36c-b5b4648f3395/5.m3u8s
+#EXTINF:-1 tvg-id="gq" tvg-name="gq" tvg-logo="https://images-2.wuaki.tv/system/artworks/202/original/gq-1645609254.jpeg" group-title="Estilo de vida" tvg-chno="314", GQ
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/1856e9db-2b25-4f12-ad2b-2a459da649be/5.m3u8
+#EXTINF:-1 tvg-id="the-design-network" tvg-name="the-design-network" tvg-logo="https://images-3.wuaki.tv/system/artworks/15/original/the-design-network-1600440809.jpeg" group-title="Estilo de vida" tvg-chno="319", The Design Network
+https://a7f0dfe917e848a0acfebf5be36b5abd.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TheDesignNetwork/651b8578-45c5-4228-8f15-486bd7bea1a0/2.m3u8
+#EXTINF:-1 tvg-id="travelxp-eng" tvg-name="travelxp-eng" tvg-logo="https://images-1.wuaki.tv/system/artworks/37/original/travelxp-1601478046.jpeg" group-title="Estilo de vida" tvg-chno="320", Travelxp
+https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/a83332b2-c293-490d-926f-02582e0b66ce/2.m3u8
+#EXTINF:-1 tvg-id="vanity-fair" tvg-name="vanity-fair" tvg-logo="https://images-3.wuaki.tv/system/artworks/203/original/vanity-fair-1620393299.jpeg" group-title="Estilo de vida" tvg-chno="321", Vanity Fair
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/e97dba5e-5fd8-4f0e-b262-9c763e09041b/5.m3u8
+#EXTINF:-1 tvg-id="vogue" tvg-name="vogue" tvg-logo="https://images-3.wuaki.tv/system/artworks/204/original/vogue-1620393426.jpeg" group-title="Estilo de vida" tvg-chno="322", Vogue
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9cc21395-ba4b-4369-9652-1ed6f0c284b0/5.m3u8
+#EXTINF:-1 tvg-id="buen-viaje" tvg-name="buen-viaje" tvg-logo="https://images-2.wuaki.tv/system/artworks/325/original/buen-viaje-1630568393.jpeg" group-title="Estilo de vida" tvg-chno="324", Buen Viaje
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/a097436e-2bee-4cf7-9a39-4c274ff7a115/5.m3u8
+#EXTINF:-1 tvg-id="tastemade-sp" tvg-name="tastemade-sp" tvg-logo="https://images-2.wuaki.tv/system/artworks/286/original/tastemade-1640938879.jpeg" group-title="Cocina" tvg-chno="380", Tastemade
+https://tastemade-es8tm-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tm-es8intl-rakuten-es/CDN/1920x1080_5385600/chunklist.m3u8
+#EXTINF:-1 tvg-id="gusto-tv" tvg-name="gusto-tv" tvg-logo="https://images-0.wuaki.tv/system/artworks/96/original/gusto-tv-1649064149.jpeg" group-title="Cocina" tvg-chno="383", Gusto TV -Spring into baking
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/4541902c-c481-4f26-bf67-82fb572d3c77/5.m3u8
+#EXTINF:-1 tvg-id="ifood-tv" tvg-name="ifood-tv" tvg-logo="https://images-0.wuaki.tv/system/artworks/270/original/ifood-tv-1624631032.png" group-title="Cocina" tvg-chno="384", iFood.tv
+https://ac84a060d6fd4f7eae260e2b21e468f5.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_iFoodTV/502e5c07-73fd-4939-844b-1b5ece86724b/2.m3u8
+#EXTINF:-1 tvg-id="clubbing-tv" tvg-name="clubbing-tv" tvg-logo="https://images-1.wuaki.tv/system/artworks/97/original/clubbing-tv-1607942564.jpeg" group-title="Música" tvg-chno="454", CLUBBING TV
+https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/1280x720_3440800/chunklist.m3u8
+#EXTINF:-1 tvg-id="qwest-tv-jazz-and-beyond" tvg-name="qwest-tv-jazz-and-beyond" tvg-logo="https://images-0.wuaki.tv/system/artworks/101/original/qwest-tv-jazz-and-beyond-1616656443.png" group-title="Música" tvg-chno="455", Qwest TV Jazz and Beyond
+https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/1280x720_3440800/chunklist.m3u8
+#EXTINF:-1 tvg-id="qwest-tv-mix" tvg-name="qwest-tv-mix" tvg-logo="https://images-1.wuaki.tv/system/artworks/100/original/qwest-tv-mix-1616656456.png" group-title="Música" tvg-chno="457", Qwest TV Mix
+https://qwestmix-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestmix-rakuten/CDN/1280x720_3440800/chunklist.m3u8
+#EXTINF:-1 tvg-id="stingray-greatest-hits" tvg-name="stingray-greatest-hits" tvg-logo="https://images-3.wuaki.tv/system/artworks/95/original/stingray-greatest-hits-1645608638.jpeg" group-title="Música" tvg-chno="461", Stingray Greatest Hits
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2011ec94-cba2-4544-98e6-4bb75b588827/1.m3u8
+#EXTINF:-1 tvg-id="stingray-hit-list" tvg-name="stingray-hit-list" tvg-logo="https://images-2.wuaki.tv/system/artworks/92/original/stingray-hitlist-1607508431.jpeg" group-title="Música" tvg-chno="462", Stingray: Hitlist
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/bdca9e0a-1ff0-4b09-bfe0-36c58da3d8d1/1.m3u8
+#EXTINF:-1 tvg-id="stingray-hot-country" tvg-name="stingray-hot-country" tvg-logo="https://images-0.wuaki.tv/system/artworks/94/original/stingray-hot-country-1641539293.jpeg" group-title="Música" tvg-chno="463", Stingray Hot Country
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/ff0366a2-9aa1-458f-98f7-bbce2b3b7094/1.m3u8
+#EXTINF:-1 tvg-id="stingray-karaoke" tvg-name="stingray-karaoke" tvg-logo="https://images-1.wuaki.tv/system/artworks/49/original/stingray-karaoke-1645608814.jpeg" group-title="Música" tvg-chno="464", Stingray Karaoke
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/83fd8f9b-3eb7-4acb-b090-7dc5c4cf38e1/2.m3u8
+#EXTINF:-1 tvg-id="stingray-soulstorm" tvg-name="stingray-soulstorm" tvg-logo="https://images-1.wuaki.tv/system/artworks/91/original/stingray-soulstorm-1607507775.jpeg" group-title="Música" tvg-chno="465", Stingray: Soulstorm
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/be49ed7e-6d9e-4a01-b93f-69400fbfab72/1.m3u8
+#EXTINF:-1 tvg-id="qello-concerts-by-stingray" tvg-name="qello-concerts-by-stingray" tvg-logo="https://images-3.wuaki.tv/system/artworks/43/original/qello-concerts-by-stingray-1640940101.jpeg" group-title="Música" tvg-chno="466", Qello Concerts by Stingray
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/864c29da-c7c8-48a3-9ca1-b991a2cc4e44/3.m3u8
+#EXTINF:-1 tvg-id="qwest-tv-classical" tvg-name="qwest-tv-classical" tvg-logo="https://images-1.wuaki.tv/system/artworks/102/original/qwest-tv-classical-1616656417.png" group-title="Música" tvg-chno="468", Qwest TV Classical
+https://qwestclassic-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestclassic-rakuten/CDN/1280x720_3440800/chunklist.m3u8
+#EXTINF:-1 tvg-id="family-es-rakuten-tv" tvg-name="family-es-rakuten-tv" tvg-logo="https://images-0.wuaki.tv/system/artworks/145/original/familiares-rakuten-tv-1621956366.jpeg" group-title="Infantil" tvg-chno="520", Familiares
+https://6ba55874ea074d818b347bf766d35316.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenFamily/136cd444-1b89-4a02-bb08-47c58aa04686/2.m3u8
+#EXTINF:-1 tvg-id="ducktv" tvg-name="ducktv" tvg-logo="https://images-3.wuaki.tv/system/artworks/72/original/ducktv-1616147839.jpeg" group-title="Infantil" tvg-chno="522", ducktv
+https://ef3d941a9095450e888b479dc77bc037.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_DuckTV/317dfe54-21db-4ed1-990e-6bf07440d24f/0.m3u8
+#EXTINF:-1 tvg-id="kidz-bop-kids-bop" tvg-name="kidz-bop-kids-bop" tvg-logo="https://images-2.wuaki.tv/system/artworks/340/original/kidz-bop-1632406741.jpeg" group-title="Infantil" tvg-chno="523", KIDZ BOP
+https://amg00377-kidzbop-kidzbop-rakuten-ur4iu.amagi.tv/hls/amagi_hls_data_rakutenAA-kidzbop-rakuten/CDN/1920x1080_5055600/chunklist.m3u8
+#EXTINF:-1 tvg-id="planeta-junior" tvg-name="planeta-junior" tvg-logo="https://images-0.wuaki.tv/system/artworks/195/original/planeta-junior-1618987212.jpeg" group-title="Infantil" tvg-chno="524", Planeta Junior
+https://3ebbc689f6694593ade290f0512b47b8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_PlanetaJunior/32c5e71e-6f8e-45eb-8512-8243a13dfd9b/2.m3u8
+#EXTINF:-1 tvg-id="baby-shark-tv" tvg-name="baby-shark-tv" tvg-logo="https://images-0.wuaki.tv/system/artworks/311/original/baby-shark-tv-1643365877.jpeg" group-title="Infantil" tvg-chno="525", Baby Shark TV
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/19b7ed46-91f9-4cdb-bdef-f8754f8fa1ac/2.m3u8
+#EXTINF:-1 tvg-id="brat-tv" tvg-name="brat-tv" tvg-logo="https://images-1.wuaki.tv/system/artworks/98/original/brat-tv-1618385409.jpeg" group-title="Infantil" tvg-chno="526", Brat TV
+https://brat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-brat-rakuten/CDN/1920x1080_5090800/chunklist.m3u8
+#EXTINF:-1 tvg-id="cool-school" tvg-name="cool-school" tvg-logo="https://images-3.wuaki.tv/system/artworks/24/original/cool-school-1601022560.png" group-title="Infantil" tvg-chno="527", Cool School
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/1b6a32ad-3648-4027-b47b-0eb17be4ad83/5.m3u8
+#EXTINF:-1 tvg-id="wb-teletubbies-en" tvg-name="wb-teletubbies-en" tvg-logo="https://images-0.wuaki.tv/system/artworks/316/original/teletubbies-1628663792.jpeg" group-title="Infantil" tvg-chno="528", Teletubbies
+https://f9720666997c4b9297eccb74053f4d54.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_Teletubbies/8edadf4f-166d-4aa2-b2b3-b95584f3eb9e/2.m3u8
+#EXTINF:-1 tvg-id="wb-caillou-es" tvg-name="wb-caillou-es" tvg-logo="https://images-2.wuaki.tv/system/artworks/313/original/caillou-1628664175.jpeg" group-title="Infantil" tvg-chno="529", Caillou
+https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/2b9ade79-a92d-4814-b5f9-06b8fe075a60/2.m3u8
+#EXTINF:-1 tvg-id="stingray-naturescape" tvg-name="stingray-naturescape" tvg-logo="https://images-1.wuaki.tv/system/artworks/55/original/stingray-naturescape-1645608673.jpeg" group-title="Slow TV" tvg-chno="590", Stingray Naturescape
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/b4bbc95a-e66f-428d-ae05-17b934b699bc/3.m3u8
+#EXTINF:-1 tvg-id="weather-spy" tvg-name="weather-spy" tvg-logo="https://images-2.wuaki.tv/system/artworks/19/original/weather-spy-1600446297.jpeg" group-title="Slow TV" tvg-chno="591", Weather Spy
+https://288cf8bdd0784900b402d3ae8bb4807a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Weatherspy/8b814531-a9e6-463d-ad48-b1b96383bed5/2.m3u8
+#EXTINF:-1 tvg-id="explore-by-tvplayer-es" tvg-name="explore-by-tvplayer-es" tvg-logo="https://images-0.wuaki.tv/system/artworks/298/original/explore-by-tvplayer-1626341641.jpeg" group-title="Documentales" tvg-chno="662", Explore by TVPlayer
+https://alchimie-explorebytvplayer-es-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-alchimie-explorebytvplayer-es-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
+#EXTINF:-1 tvg-id="love-nature" tvg-name="love-nature" tvg-logo="https://images-1.wuaki.tv/system/artworks/319/original/love-nature-1644910716.jpeg" group-title="Documentales" tvg-chno="665", Love Nature
+https://amg00090-blueantmedia-loncastilian-rakuten-9j56c.amagi.tv/hls/amagi_hls_data_rakutenAA-bamus-lovenature-castilian-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
+#EXTINF:-1 tvg-id="naturaleza" tvg-name="naturaleza" tvg-logo="https://images-3.wuaki.tv/system/artworks/327/original/naturaleza-1630568601.jpeg" group-title="Documentales" tvg-chno="668", Naturaleza
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/66a97522-df2a-4b9c-bbb5-eadc71bcdfc9/5.m3u8
+#EXTINF:-1 tvg-id="euronews-live-es" tvg-name="euronews-live-es" tvg-logo="https://images-2.wuaki.tv/system/artworks/275/original/euronews-en-directo-1625048462.jpeg" group-title="Noticias" tvg-chno="730", Euronews en directo
+https://b65f458b099f43cbb7c26dc1ee4075dd.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_EuroNewsLive/1bbb357f-66ab-496e-936b-33b6e2c45cd7/0.m3u8
+#EXTINF:-1 tvg-id="africanews-en" tvg-name="africanews-en" tvg-logo="https://images-0.wuaki.tv/system/artworks/222/original/africanews-1622018107.jpeg" group-title="Noticias" tvg-chno="732", Africanews
+https://37c774660687468c821a51190046facf.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_AfricaNews/ff383ed0-ab1c-4144-a11f-34aff3d11e5e/0.m3u8
+#EXTINF:-1 tvg-id="reuters" tvg-name="reuters" tvg-logo="https://images-1.wuaki.tv/system/artworks/20/original/reuters-1613633843.jpeg" group-title="Noticias" tvg-chno="733", Reuters
+https://bbc982df73cf41ceb5511c0aba6df6c0.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ReutersNow/81ebc091-5cca-4f7f-8b3f-56cede5b0281/7.m3u8
+#EXTINF:-1 tvg-id="revry-news" tvg-name="revry-news" tvg-logo="https://images-3.wuaki.tv/system/artworks/58/original/revry-news-1602758652.jpeg" group-title="Noticias" tvg-chno="737", Revry News
+https://dce9e10d279f410d87ef5ad1c3740459.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_RevryNews/c0adc2f9-856d-4107-bda1-822a05e90f53/0.m3u8
+#EXTINF:-1 tvg-id="ictv-ukraine" tvg-name="ictv-ukraine" tvg-logo="https://images-1.wuaki.tv/system/artworks/384/original/ictv-ukraine-1646729027.png" group-title="Noticias" tvg-chno="740", ICTV Ukraine
+https://ictv-ukraine-rakuten.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 tvg-id="1-1-international" tvg-name="1-1-international" tvg-logo="https://images-2.wuaki.tv/system/artworks/388/original/1-1-international-1646990688.png" group-title="Noticias" tvg-chno="741", 1+1 International
+https://1plus1-rakuten.amagi.tv/playlist1080pl.m3u8
+#EXTINF:-1 tvg-id="quicktake" tvg-name="quicktake" tvg-logo="https://images-1.wuaki.tv/system/artworks/104/original/quicktake-1608024483.png" group-title="Noticias" tvg-chno="742", Quicktake
+https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_QuickTake-1/7bd4bc68-74d0-4ee1-b381-e5a9a2911042/0.m3u8
+#EXTINF:-1 tvg-id="bloomberg-tv" tvg-name="bloomberg-tv" tvg-logo="https://images-2.wuaki.tv/system/artworks/69/original/bloomberg-television-1605023067.jpeg" group-title="Noticias" tvg-chno="743", Bloomberg Television
+https://afda8ca41e7a407eb97239803281b088.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Bloomberg/133cdf0a-1020-473d-9750-b43a2b86b831/0.m3u8
+#EXTINF:-1 tvg-id="hola-play" tvg-name="hola-play" tvg-logo="https://images-0.wuaki.tv/system/artworks/135/original/hola-play-1616775052.png" group-title="Destacados" tvg-chno="800", ¡HOLA! Play
+https://74b6d2726ed34ab3ac9d39f80c4ca8f3.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_HolaPlay/289ce76f-7155-4275-b10c-9f0a54b5068e/2.m3u8
+#EXTINF:-1 tvg-id="the-guardian" tvg-name="the-guardian" tvg-logo="https://images-2.wuaki.tv/system/artworks/377/original/the-guardian-1642407848.jpeg" group-title="Destacados" tvg-chno="801", The Guardian
+https://d73fb24db4524ddca65ec4935761d3ef.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TheGuardianChannel/4a547b04-37c4-4364-a9e2-44efee073e63/2.m3u8
