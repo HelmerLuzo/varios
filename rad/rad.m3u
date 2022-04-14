@@ -2,25 +2,25 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/c6f7600c-2547-4dff-8883-27bdb13f52cc/8eda5a6bc471736311a12fddab64c32e.png" group-title="" tvg-chno="117", WildEarth
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-littlstar/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/be59cf084bef1890eb5b675e50e8825e.png" group-title="" tvg-chno="97", GoTraveler
-https://api-ott.gotraveler.com/loggingmediaurlpassthrough/a.m3u8
+https://api-ott.gotraveler.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=677&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/e2309d8cc3df13d597020099f011547f.jpeg" group-title="" tvg-chno="85", Space Channel
-https://api-ott.spacechannel.com/loggingmediaurlpassthrough/a.m3u8
+https://api-ott.spacechannel.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=255&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/5a4e360379698ad3fda5c1f30f354e4c.jpeg" group-title="" tvg-chno="78", ESTV
-https://api-ott.estv.co/loggingmediaurlpassthrough/a.m3u8
+https://api-ott.estv.co/loggingmediaurlpassthrough/a.m3u8?version=12&id=12&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/7067ebca77b8426538831b886aeb8941.jpeg" group-title="" tvg-chno="79", Mobcrush
 https://d39uqn16w2n0w1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RAD-MobCrushV2/m.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/6cda59a14aa9aa8242ddede55881af19.png.png" group-title="" tvg-chno="86", Dark Corners
 https://d39uqn16w2n0w1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RAD-DarkCornersV2/m.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/c54cd092-c301-4df5-aff8-ac7f5815a555/0afe1a62c827eb307dd197fa18c7b552" group-title="" tvg-chno="19", Altrd.tv
-https://api-ott.thesocialclub.tv/loggingmediaurlpassthrough/a.m3u8
+https://api-ott.thesocialclub.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=322&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/56cc90c33c25b81ecb101512f76b655a.jpeg" group-title="" tvg-chno="12", World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-LittleStar/161.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/e07f0376e92fb2ad56405005e50f784b.png" group-title="" tvg-chno="41", Treehouse Gaming Network
-https://api-ott-sadsea-tree.ottera.tv/loggingmediaurlpassthrough/a.m3u8
+https://api-ott-sadsea-tree.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=105&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/5b16668d3ec7ccedaeb217ac033111a7.jpeg" group-title="" tvg-chno="84", Casa Comedy
 https://d39uqn16w2n0w1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RAD-CasaComedyV2/m.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/e491f173-3d29-45be-860f-a0d45b34e428/68a5bddcd020c0449a8922a239e54266" group-title="" tvg-chno="28", Channel Fight Masterclass
-https://api-ott.channelfight.com/loggingmediaurlpassthrough/a.m3u8
+https://api-ott.channelfight.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=269&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/bf49c43ee211c091e1ba1dae7eea4abd.jpeg" group-title="" tvg-chno="80", The Country Network
 https://d39uqn16w2n0w1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RAD-TCNV2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/25c43ebd-06b3-4fc3-b13b-d46794474e82/9fb1d022d71efb669b7498a883660085.png" group-title="" tvg-chno="87", LevelUp
@@ -28,15 +28,15 @@ https://d39uqn16w2n0w1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/281236b22f9089d6cb91197d97317653.png" group-title="" tvg-chno="88", bspoketv
 https://bspoketv.s.llnwi.net/streams/rad/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/df565999-cc18-4699-b3a2-deb357a0d0cb/f1b89e072aa00df6af6477ee78b46903.png" group-title="" tvg-chno="98", Motorvision TV
-https://api-ott.motorvision.tv/loggingmediaurlpassthrough/a.m3u8
+https://api-ott.motorvision.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=1199&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/91628a49-5d57-4a6d-9480-5a66b0ed5c50/89bbb7427a614b1a6842c8153f475f92" group-title="" tvg-chno="99", Crime and Conspiracy
-https://api-ott.podtv.live/loggingmediaurlpassthrough/a.m3u8
+https://api-ott.podtv.live/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/4c311b30-bf83-46e4-9ade-75f8ead727f3/29c178b2bbfc283819701a6d8edec0db.png" group-title="" tvg-chno="106", Extreme+
-https://api-ott.extreme.com/loggingmediaurlpassthrough/a.m3u8
+https://api-ott.extreme.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=950&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/9b2b9dfa-0592-4de4-b503-d6d8c4f507e5/6162aaa8dd2fe70bb18fc950e68f132c.jpg" group-title="" tvg-chno="107", NHRA TV
-https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8
+https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=24&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/8a00736f-a743-4118-9231-ac81f8af7f05/e80276d7825c429ed612f10e965889d4.png" group-title="" tvg-chno="102", HallyPop
-https://api-ott.jungoplus.com/loggingmediaurlpassthrough/a.m3u8
+https://api-ott.jungoplus.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=617&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/1030b1a6-3f38-450d-9b79-212eca72d926/0ca06e75b34f7fdfd9d0da5024af844c.png" group-title="" tvg-chno="108", SportsGrid Network
 https://sportsgrid-radlive.amagi.tv/hls/amagi_hls_data_sportsgri-sportsgrid-radlive/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/31c9cf17c2122e782cb7a59f3e9f8ed4.png.png" group-title="" tvg-chno="81", YTA
@@ -48,7 +48,7 @@ https://1123112950.rsc.cdn77.org/HLS/FIDO_SCTE.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/71a3ce14-bba2-45eb-8bd8-08a9866e3abb/77109e77b5e5dddf85b880373d1ce83e.png" group-title="" tvg-chno="111", Lacrosse Sports Network
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/a7c3abe9-f572-4aa2-823f-72218403755a/b132644a35637f4a18cb7f98227c5696.png" group-title="" tvg-chno="124", MMA TV
-https://api-ott.mmatv.com/loggingmediaurlpassthrough/a.m3u8
+https://api-ott.mmatv.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=1162&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/77852baf-f846-4a52-a2f5-24cbc8839f1f/c0e8889ffb054af2bb95fe2c8011dd5f.png" group-title="" tvg-chno="123", Allied Esports
 https://d1lvmtqnqngsrn.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/AlliedESports-Littlestar/213.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/c03b35d6-c5ea-49ad-a922-7a6590afa37d/16dd6e38aa0532a9855847274f884560.png" group-title="" tvg-chno="125", Poker Night in America
@@ -58,27 +58,27 @@ https://d39uqn16w2n0w1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/e70bc26d-407b-4c9f-b973-515d7d589202/d39e56bf07ef0b3bc8902288e9bd4e65.jpeg" group-title="" tvg-chno="122", Beautiful Planet
 https://d39uqn16w2n0w1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RAD-BeautifulPlanetV2/m.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/177eb659-7e20-420b-bf01-562ee6bd266f/abb1708cbe851f4841c60c63154434b6.png" group-title="" tvg-chno="131", Volty TV
-https://api-ott.volty.tv/loggingmediaurlpassthrough/a.m3u8
+https://api-ott.volty.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=58&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/ea3d0c5d-3f15-4ea9-8f71-06f6cd603568/dd22e6f654760d35360d50a85fd94a62.jpg" group-title="" tvg-chno="129", AWE Plus
 https://stream-us-east-1.getpublica.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/45545aff-0d47-44fc-9894-1d329b731adf/700b8fba246fbd11d56143e56eb9de60.jpg" group-title="" tvg-chno="130", OAN Plus
 https://stream-us-east-1.getpublica.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/ca6ea9b2-c001-4e58-aac8-5cb34152ff9b/3a325f473ca57a14610d70d2c884b3d7.jpg" group-title="" tvg-chno="128", Outdoor America
-https://api-ott.outdooramerica.com/loggingmediaurlpassthrough/a.m3u8
+https://api-ott.outdooramerica.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=12&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/0b6fc7ce-36d8-47d3-98cf-58d5de28297c/921ccd39a0fa6b792a1704d4c2052c6e.png" group-title="" tvg-chno="132", HavocTV
 https://d39uqn16w2n0w1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RAD-HavocTVV2/m.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/70f45fdb-1a70-4435-b080-dc0b218574d1/deb5d9eca95eb49ee5f0fd9a47b17a15.png" group-title="" tvg-chno="133", Young Hollywood
 https://d39uqn16w2n0w1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RAD-YougHollywoodV2/m.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/46cbd31e-9eae-48c4-bf91-dec4f144b793/2a9beaa069738bb18a35367f3b9f1935.jpg" group-title="" tvg-chno="134", AfrolandTV
-https://api-ott.afrolandtv.com/loggingmediaurlpassthrough/a.m3u8
+https://api-ott.afrolandtv.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=816&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/618828e8-0f5d-421c-b165-68314e67c139/ddc33ad9b3867b267366153a1730e68a.png" group-title="" tvg-chno="138", unVALEd Network
-https://api-ott.unvalednetwork.com/loggingmediaurlpassthrough/a.m3u8
+https://api-ott.unvalednetwork.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=43&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/b659f43a-e663-456f-80f7-8af74b7ed01a/86012463b8634bef98957eae1b449dde.png" group-title="" tvg-chno="136", Planet Eat
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/NMFWEFQR3RO77A4FIB7W/hls3/now_-1m_15s/m.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/ad0c4da8-4ee3-43c0-9336-58cd72f3739a/19df4f1d591f65b2fa110e04b7952edd" group-title="" tvg-chno="137", DreadTV
 https://d39uqn16w2n0w1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RAD-DreadTVV2/m.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/00e540db-1c49-43c8-b3cc-ff46f8c58f48/92dc8b76a91ec74003ef10898bcf8c7a" group-title="" tvg-chno="139", Familytime
-https://api-ott.familytime.tv/loggingmediaurlpassthrough/a.m3u8
+https://api-ott.familytime.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=1321&partner=littlstar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/0973b7d4-69bf-4763-b8c5-6487453398a4/924500125a21634e05a5635bde53f678" group-title="" tvg-chno="141", Baeble Music
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/NV06PH7YYTT0UQT3V395/hls3/now_-1m_15s/m.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/6703ce0b-e832-46d7-a242-352393a9e294/bf77e9f2390bc3b7a39a1de29b226c04" group-title="" tvg-chno="142", Nomad TV
@@ -164,4 +164,4 @@ https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/f7f74a4244222436c5ccc87a5609d0ac" group-title="" tvg-chno="181", Xcorps
 https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/9SKNL2RD3R81QJ9MQ98W/hls3/now_-1m_15s/m.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/ace0f75d-b6ef-4f5f-abb2-dd1c7a48f987/baea6c61bb2bb6fcc08979d4a110dd4c" group-title="" tvg-chno="184", Kino Cult
-https://api-ott.kinocult.com/loggingmediaurlpassthrough/a.m3u8
+https://api-ott.kinocult.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=560&partner=littlstar
